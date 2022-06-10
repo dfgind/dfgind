@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dfgind
-- 👀 I’m interested in programming application using REVIT API
-- 🌱 I’m currently learning IronPython
+- Located in Bern, Switzerland
+- 👀 I’m interested in programming applications using REVIT API
+- 🌱 I’m currently learning IronPython, VB.ET and C#
 - 💞️ I’m looking to collaborate on applications for Revit
 - 📫 Send me an email at dfgind@gmail.com
 
