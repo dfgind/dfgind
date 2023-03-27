@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dfgind
-- Located in Bern, Switzerland
 - 👀 I’m interested in programming applications using Revit API
 - 🌱 I’m currently doing applications in IronPython, VB.NET and C#
 - 💞️ I’m looking to collaborate on applications for Revit
